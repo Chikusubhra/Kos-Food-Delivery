@@ -10,8 +10,7 @@
 | :--- | :--- | :--- |
 | ![Home](../WhatsApp%20Image%202026-02-11%20at%2011.10.27%20PM.jpeg) | ![Menu](../WhatsApp%20Image%202026-02-11%20at%2011.11.58%20PM.jpeg) | ![Shop Owner](../WhatsApp%20Image%202026-02-11%20at%2011.11.10%20PM.jpeg) | ![Delivery Boy](../WhatsApp%20Image%202026-02-11%20at%2011.15.55%20PM.jpeg) |
 
-> **Tip:** Create a folder named `screenshots` in your root directory and add your images there to see them appear in this table.
-
+>
 ---
 
 ## 🛠 Tech Stack
