@@ -129,12 +129,12 @@ Copy your API Key and paste it into the Frontend .env under VITE_GEOAPIKEY
 ### ☁️ Media Optimization
 
 **Challenge:** Handling large image uploads for food menus.
-**Solution:** Integrated **Cloudinary API**. Images are offloaded to a CDN, reducing server load and ensuring fast image delivery to users.
+**Solution:** Integrated **Cloudinary API*s*. Images are offloaded to a CDN, reducing server load and ensuring fast image delivery to users.
 
 ### 📍 Location Intelligence
 
 **Challenge:** Calculating delivery distances.
-**Solution:** Integrated **Google Geo-location API** with **Debouncing** logic in React to minimize API costs and improve UI responsiveness.
+**Solution:** Integrated **Leaflet Geo-location API** with **Debouncing** logic in React to minimize API costs and improve UI responsiveness.
 
 ---
 
