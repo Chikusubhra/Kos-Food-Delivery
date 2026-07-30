@@ -26,7 +26,7 @@ import { io } from 'socket.io-client'
 import { setSocket } from './redux/userSlice'
 import Chatbot from './components/Chatbot'
 
-export const serverUrl = 'http://localhost:8000' || process.env.REACT_APP_SERVER_URL
+export const serverUrl = "https://kos-food-delivery-kwpu.vercel.app/" || 'http://localhost:8000' || process.env.REACT_APP_SERVER_URL
 function App() {
   const { userData } = useSelector(state => state.user)
   const dispatch = useDispatch()
