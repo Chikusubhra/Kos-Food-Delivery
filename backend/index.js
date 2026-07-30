@@ -18,6 +18,7 @@ const app=express()
 const server=http.createServer(app)
 
 const allowedOrigins = [
+  "https://kos-food-delivery.vercel.app/signin",
   "http://localhost:5173"
 ];
 
